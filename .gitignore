@@ -1,0 +1,11 @@
+#ignorando um arquivo 
+index.html
+
+# ignorando por extensão predefinida
+*.extensao
+
+
+#ignorar uma pasta
+vendor/
+node_modules/
+docs/
