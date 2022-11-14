@@ -8,6 +8,8 @@ CURSO DE GIT E GITHUB
 7
 8
 9
-10
+100000 00 000 000 000
 mudança para ver conflitos
+
+
 
